@@ -1,0 +1,11 @@
+id,customer_name,email,region,join_date
+1,John Smith,john.smith@email.com,North,2023-01-15
+2,Sarah Johnson,sarah.j@email.com,South,2023-02-20
+3,Mike Wilson,mike.w@email.com,East,2023-03-10
+4,Emily Brown,emily.b@email.com,West,2023-01-25
+5,David Lee,david.lee@email.com,North,2023-04-05
+6,Lisa Chen,lisa.chen@email.com,South,2023-02-18
+7,Tom Anderson,tom.a@email.com,East,2023-05-12
+8,Rachel Martinez,rachel.m@email.com,West,2023-03-30
+9,James Taylor,james.t@email.com,North,2023-01-08
+10,Maria Garcia,maria.g@email.com,South,2023-06-22

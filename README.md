@@ -6,6 +6,13 @@ A production-ready natural language to SQL query system that lets non-technical 
 
 ---
 
+### 🎨 Project Cover
+![DataTalk SQL](Demo/Shots/Gemini_Generated_Image_lrvzzelrvzzelrvz.png)
+
+---
+
+---
+
 ### 🏢 Enterprise Hybrid Architecture
 **Designed for Data Privacy and Scalability**
 
@@ -66,27 +73,23 @@ But no single open-source tool provides a conversational interface with automati
 
 ---
 
-## 📊 Architecture & Diagrams
+## 📊 Screenshots & Diagrams
 
-### System Architecture
-
-![Architecture Diagram](docs/architecture_diagram.png)
-
-*Complete system architecture showing all components, layers, and data flow*
-
-### Folder Structure
-
-![Folder Structure](docs/folder_structure.png)
-
-*Project organization with file purposes and sizes*
-
-### Project Flow & Logic
-
-![Project Flow](docs/project_flow.png)
-
-*Detailed flow diagram showing the complete user journey from upload to export, including auto-repair logic*
+### 🏠 Home — Data Upload & Relationship Detection
+![Home Screen](Demo/Shots/Home.png)
+*Upload CSVs, auto-detect relationships with confidence scores, and preview your data instantly*
 
 ---
+
+### 💬 Q&A — Ask Questions in Plain English
+![Q&A Screen](Demo/Shots/Q%26A.png)
+*Type a question, get SQL generated automatically, with charts and plain-English explanation*
+
+---
+
+### 📋 Table View — Interactive Data Preview
+![Table View](Demo/Shots/Table_View.png)
+*Browse your uploaded tables, view column types, missing values, and data quality summary*
 
 ## 🚀 Features
 

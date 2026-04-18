@@ -471,27 +471,20 @@ See `future_enhancements.md` for complete roadmap
 
 Contributions welcome! Please:
 
-1. Fork the repository
-2. Create a feature branch
-3. Keep code simple and readable
-4. Add natural docstrings
-5. Submit a pull request
+1. Keep code simple and readable
+2. Add natural docstrings
+3. Submit a pull request
 
 **Code Style:**
 - Simple, clean, readable
 - Natural comments (like a real engineer)
 - Include TODO notes where appropriate
-- Avoid overly formal AI-like text
 
 ---
 
-## 📝 License
+## 👨‍💻 Author 
 
-MIT License - feel free to use in your projects!
-
----
-
-## 👨‍💻 Author
+Parth B Mistry
 
 Built with ❤️ for making data accessible to everyone.
 
@@ -531,31 +524,5 @@ Built with ❤️ for making data accessible to everyone.
 - Charts only appear for suitable data (time series, categories, etc.)
 - Check that results have numeric and categorical columns
 - Large datasets (>1000 rows) skip visualization for performance
-
----
-
-## 📞 Support
-
-Found a bug? Have a feature request?
-
-- Open an issue on GitHub
-- Star ⭐ the repo if you find it useful!
-
----
-
-## 🎥 Demo
-
-Upload your CSVs, define relationships with confidence scores, and start asking questions in plain English. Watch as:
-
-- ✨ SQL generates instantly
-- 🔧 Errors auto-repair themselves
-- 📊 Charts appear automatically
-- 💡 Queries explain themselves
-
-**Speed comparison:**
-- Groq: 1-2 seconds ⚡
-- Ollama: 5-15 seconds 🐌
-
----
 
 **🎉 Happy Querying with DataTalk SQL!**
